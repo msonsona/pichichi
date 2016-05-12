@@ -20,5 +20,19 @@ for jornada in soup.find_all('div', class_='jornadaCalendario'):
         if partido.h3.a.has_attr('href'):
             partido_url = partido.h3.a['href']
             print(partido_url)
+            
+            pag_partido = requests.get(partido_url)
+            partido_soup = BeautifulSoup(pag_partido.content, 'html.parser')
+            
+            marcador = partido_soup.find('div', class_='marcador')
+            
+            marcador_local = marcador.find('div', class_='equipo-1')
+            marcador_visitante = marcador.find('div', class_='equipo-2')
+            
+            num_goles_local = marcador_local.find('div', class_='resultado').text
+            num_goles_visitante = marcador_visitante.find('div', class_='resultado').text
+            
+            print(num_goles_local, ' - ', num_goles_visitante)
+            
         else:
             print("No url")
