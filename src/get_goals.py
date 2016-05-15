@@ -32,7 +32,17 @@ for jornada in soup.find_all('div', class_='jornadaCalendario'):
             num_goles_local = marcador_local.find('div', class_='resultado').text
             num_goles_visitante = marcador_visitante.find('div', class_='resultado').text
             
+            goleadores_local = marcador_local.find('div', class_='goles')
+            goleadores_visitante = marcador_visitante.find('div', class_='goles')
+            
+            goles_local = goleadores_local.ul.find_all('li')
+            goles_visitante = goleadores_visitante.ul.find_all('li')
+            
             print(num_goles_local, ' - ', num_goles_visitante)
+            for gol in goles_local:
+                print(gol)
+            for gol in goles_visitante:
+                print(gol)
             
         else:
             print("No url")
