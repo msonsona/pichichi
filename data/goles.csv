@@ -1,0 +1,1045 @@
+Gol,Jornada,Minuto,Equipo,Goleador,Rival,Local,Resultado,Resultado Final,Penalty,Propia Puerta
+1,1,50,Granada,Rochina,Eibar,1,1-2,1-3,0,0
+2,1,22,Eibar,Adrián,Granada,0,0-1,1-3,0,0
+3,1,35,Eibar,Escalante,Granada,0,0-2,1-3,0,0
+4,1,67,Eibar,Arruabarrena,Granada,0,1-3,1-3,0,0
+5,1,87,Betis,Rubén Castro,Villarreal,1,1-1,1-1,0,0
+6,1,32,Villarreal,Soldado,Betis,0,0-1,1-1,0,0
+7,1,54,Levante,Verza,Celta,1,1-1,1-2,0,0
+8,1,40,Celta,Orellana,Levante,0,0-1,1-2,0,0
+9,1,76,Celta,Iago Aspas,Levante,0,1-2,1-2,0,0
+10,1,53,Barcelona,Luis Suárez,Athletic,0,0-1,0-1,0,0
+11,1,16,Atlético,Griezmann,Las Palmas,1,1-0,1-0,0,0
+12,1,3,Espanyol,Salva Sevilla,Getafe,1,1-0,1-0,0,0
+13,2,45,Valencia,Negredo,Deportivo,1,1-1,1-1,0,0
+14,2,39,Deportivo,Lucas Pérez,Valencia,0,0-1,1-1,0,0
+15,2,35,Atlético,Koke,Sevilla,0,0-1,0-3,0,0
+16,2,78,Atlético,Gabi,Sevilla,0,0-2,0-3,0,0
+17,2,85,Atlético,Jackson Martínez,Sevilla,0,0-3,0-3,0,0
+18,2,79,Getafe,Lafita,Granada,1,1-2,1-2,0,0
+19,2,25,Granada,El-Arabi,Getafe,0,0-1,1-2,0,0
+20,2,28,Granada,Success,Getafe,0,0-2,1-2,0,0
+21,2,67,Villarreal,Soldado,Espanyol,1,1-1,3-1,0,0
+22,2,87,Villarreal,Bakambu,Espanyol,1,2-1,3-1,0,0
+23,2,92,Villarreal,Bakambu,Espanyol,1,3-1,3-1,0,0
+24,2,6,Espanyol,Caicedo,Villarreal,0,0-1,3-1,0,0
+25,2,73,Barcelona,Vermaelen,Málaga,1,1-0,1-0,0,0
+26,2,11,Celta,Nolito,Rayo,1,1-0,3-0,0,0
+27,2,50,Celta,Nolito,Rayo,1,2-0,3-0,0,0
+28,2,88,Celta,Fontás,Rayo,1,3-0,3-0,0,0
+29,2,2,R. Madrid,Bale,Betis,1,1-0,5-0,0,0
+30,2,38,R. Madrid,James Rodríguez,Betis,1,2-0,5-0,0,0
+31,2,47,R. Madrid,Benzema,Betis,1,3-0,5-0,0,0
+32,2,49,R. Madrid,James Rodríguez,Betis,1,4-0,5-0,0,0
+33,2,88,R. Madrid,Bale,Betis,1,5-0,5-0,0,0
+34,2,34,Eibar,Saúl Berjón,Athletic,1,1-0,2-0,0,0
+35,2,61,Eibar,Adrián,Athletic,1,2-0,2-0,0,0
+36,3,27,Rayo,Embarba,Deportivo,1,1-1,1-3,0,0
+37,3,7,Deportivo,Borges,Rayo,0,0-1,1-3,0,0
+38,3,28,Deportivo,Luis Alberto,Rayo,0,1-2,1-3,0,0
+39,3,61,Deportivo,Lucas Pérez,Rayo,0,1-3,1-3,0,0
+40,3,13,Celta,Orellana,Las Palmas,1,1-0,3-3,1,0
+41,3,17,Celta,Wass,Las Palmas,1,2-0,3-3,0,0
+42,3,48,Celta,Nolito,Las Palmas,1,3-1,3-3,0,0
+43,3,23,Las Palmas,Araujo,Celta,0,2-1,3-3,0,0
+44,3,61,Las Palmas,Hernández,Celta,0,3-2,3-3,0,1
+45,3,73,Las Palmas,Simón,Celta,0,3-3,3-3,0,0
+46,3,6,Athletic,Aduriz,Getafe,1,1-0,3-1,0,0
+47,3,24,Athletic,Raúl García,Getafe,1,2-0,3-1,0,0
+48,3,83,Athletic,Aduriz,Getafe,1,3-1,3-1,0,0
+49,3,69,Getafe,Velázquez,Athletic,0,2-1,3-1,0,0
+50,3,73,Granada,Fran Rico,Villarreal,1,1-2,1-3,0,0
+51,3,48,Villarreal,Manu Trigueros,Granada,0,0-1,1-3,0,0
+52,3,51,Villarreal,Bakambu,Granada,0,0-2,1-3,0,0
+53,3,91,Villarreal,Samuel,Granada,0,1-3,1-3,0,0
+54,3,41,Betis,Rubén Castro,R. Sociedad,1,1-0,1-0,0,0
+55,3,51,Atlético,Fernando Torres,Barcelona,1,1-0,1-2,0,0
+56,3,54,Barcelona,Neymar,Atlético,0,1-1,1-2,0,0
+57,3,76,Barcelona,Messi,Atlético,0,1-2,1-2,0,0
+58,3,91,Valencia,Paco Alcácer,Sporting,0,0-1,0-1,0,0
+59,3,7,R. Madrid,Cristiano Ronaldo,Espanyol,0,0-1,0-6,0,0
+60,3,17,R. Madrid,Cristiano Ronaldo,Espanyol,0,0-2,0-6,1,0
+61,3,19,R. Madrid,Cristiano Ronaldo,Espanyol,0,0-3,0-6,0,0
+62,3,29,R. Madrid,Benzema,Espanyol,0,0-4,0-6,0,0
+63,3,61,R. Madrid,Cristiano Ronaldo,Espanyol,0,0-5,0-6,0,0
+64,3,80,R. Madrid,Cristiano Ronaldo,Espanyol,0,0-6,0-6,0,0
+65,3,58,Levante,Camarasa,Sevilla,1,1-1,1-1,0,0
+66,3,12,Sevilla,N'Zonzi,Levante,0,0-1,1-1,0,0
+67,4,2,Getafe,Scepovic,Málaga,1,1-0,1-0,0,0
+68,4,54,R. Madrid,Benzema,Granada,1,1-0,1-0,0,0
+69,4,62,Atlético,Correa,Eibar,0,0-1,0-2,0,0
+70,4,78,Atlético,Fernando Torres,Eibar,0,0-2,0-2,0,0
+71,4,19,R. Sociedad,Agirretxe,Espanyol,1,1-0,2-3,0,0
+72,4,86,R. Sociedad,Jonathas,Espanyol,1,2-2,2-3,0,0
+73,4,44,Espanyol,Gerard Moreno,R. Sociedad,0,1-1,2-3,1,0
+74,4,70,Espanyol,Enzo Roco,R. Sociedad,0,1-2,2-3,0,0
+75,4,90,Espanyol,Hernán Pérez,R. Sociedad,0,2-3,2-3,0,0
+76,4,54,Sevilla,Fernando Llorente,Celta,1,1-2,1-2,0,0
+77,4,15,Celta,Nolito,Sevilla,0,0-1,1-2,0,0
+78,4,26,Celta,Wass,Sevilla,0,0-2,1-2,0,0
+79,4,16,Deportivo,Juanfran,Sporting,1,1-2,2-3,0,0
+80,4,27,Deportivo,Luis Alberto,Sporting,1,2-2,2-3,0,0
+81,4,4,Sporting,Sanabria,Deportivo,0,0-1,2-3,0,0
+82,4,7,Sporting,Sanabria,Deportivo,0,0-2,2-3,0,0
+83,4,34,Sporting,Álex Menéndez,Deportivo,0,2-3,2-3,0,0
+84,4,43,Villarreal,Bruno,Athletic,1,1-0,3-1,1,0
+85,4,66,Villarreal,Mario,Athletic,1,2-0,3-1,0,0
+86,4,79,Villarreal,Leo Baptistao,Athletic,1,3-0,3-1,0,0
+87,4,92,Athletic,Aduriz,Villarreal,0,3-1,3-1,0,0
+88,4,49,Barcelona,Bartra,Levante,1,1-0,4-1,0,0
+89,4,55,Barcelona,Neymar,Levante,1,2-0,4-1,0,0
+90,4,60,Barcelona,Messi,Levante,1,3-0,4-1,0,0
+91,4,89,Barcelona,Messi,Levante,1,4-1,4-1,0,0
+92,4,65,Levante,Casadesús,Barcelona,0,3-1,4-1,0,0
+93,4,41,Rayo,Javi Guerra,Las Palmas,0,0-1,0-1,0,0
+94,5,69,Betis,Petros,Deportivo,1,1-1,1-2,0,0
+95,5,54,Deportivo,Fede Cartabia,Betis,0,0-1,1-2,0,0
+96,5,72,Deportivo,Fajr,Betis,0,1-2,1-2,0,0
+97,5,71,Villarreal,Tissone,Málaga,0,0-1,0-1,0,1
+98,5,30,Las Palmas,Roque,Sevilla,1,1-0,2-0,0,0
+99,5,76,Las Palmas,Alcaraz,Sevilla,1,2-0,2-0,0,0
+100,5,67,Athletic,Sabin Merino,R. Madrid,1,1-1,1-2,0,0
+101,5,19,R. Madrid,Benzema,Athletic,0,0-1,1-2,0,0
+102,5,70,R. Madrid,Benzema,Athletic,0,1-2,1-2,0,0
+103,5,39,Rayo,Trashorras,Sporting,1,1-0,2-1,1,0
+104,5,47,Rayo,Javi Guerra,Sporting,1,2-0,2-1,0,0
+105,5,50,Sporting,Jony,Rayo,0,2-1,2-1,0,0
+106,5,52,Levante,Morales,Eibar,1,1-2,2-2,0,0
+107,5,93,Levante,Deyverson,Eibar,1,2-2,2-2,0,0
+108,5,10,Eibar,Borja Bastón,Levante,0,0-1,2-2,0,0
+109,5,48,Eibar,Borja Bastón,Levante,0,0-2,2-2,0,0
+110,5,25,Celta,Nolito,Barcelona,1,1-0,4-1,0,0
+111,5,29,Celta,Iago Aspas,Barcelona,1,2-0,4-1,0,0
+112,5,55,Celta,Iago Aspas,Barcelona,1,3-0,4-1,0,0
+113,5,81,Celta,Guidetti,Barcelona,1,4-1,4-1,0,0
+114,5,79,Barcelona,Neymar,Celta,0,3-1,4-1,0,0
+115,5,7,R. Sociedad,Agirretxe,Granada,0,0-1,0-3,0,0
+116,5,33,R. Sociedad,Agirretxe,Granada,0,0-2,0-3,0,0
+117,5,79,R. Sociedad,Agirretxe,Granada,0,0-3,0-3,0,0
+118,5,18,Espanyol,Víctor Álvarez,Valencia,1,1-0,1-0,0,0
+119,5,4,Atlético,Griezmann,Getafe,1,1-0,2-0,0,0
+120,5,89,Atlético,Griezmann,Getafe,1,2-0,2-0,0,0
+121,6,17,Sporting,Carlos Castro,Betis,1,1-0,1-2,0,0
+122,6,46,Betis,Joaquín,Sporting,0,1-1,1-2,0,0
+123,6,57,Betis,Rubén Castro,Sporting,0,1-2,1-2,0,0
+124,6,14,Deportivo,Álvaro,Espanyol,1,1-0,3-0,0,1
+125,6,27,Deportivo,Lucas Pérez,Espanyol,1,2-0,3-0,0,0
+126,6,47,Deportivo,Lucas Pérez,Espanyol,1,3-0,3-0,0,0
+127,6,81,Getafe,Álvaro Vázquez,Levante,1,1-0,3-0,0,0
+128,6,90,Getafe,Emi,Levante,1,2-0,3-0,0,0
+129,6,91,Getafe,Álvaro Vázquez,Levante,1,3-0,3-0,0,0
+130,6,27,Valencia,Mustafi,Granada,1,1-0,1-0,0,0
+131,6,24,Barcelona,Luis Suárez,Las Palmas,1,1-0,2-1,0,0
+132,6,52,Barcelona,Luis Suárez,Las Palmas,1,2-0,2-1,0,0
+133,6,87,Las Palmas,Jonathan Viera,Barcelona,0,2-1,2-1,0,0
+134,6,14,Villarreal,Leo Baptistao,Atlético,1,1-0,1-0,0,0
+135,6,23,Sevilla,Gameiro,Rayo,1,1-0,3-2,0,0
+136,6,46,Sevilla,N'Zonzi,Rayo,1,2-0,3-2,0,0
+137,6,86,Sevilla,Konoplyanka,Rayo,1,3-2,3-2,0,0
+138,6,51,Rayo,Bebé,Sevilla,0,2-1,3-2,0,0
+139,6,68,Rayo,Javi Guerra,Sevilla,0,2-2,3-2,0,0
+140,6,2,Eibar,Borja Bastón,Celta,1,1-0,1-1,0,0
+141,6,76,Celta,Iago Aspas,Eibar,0,1-1,1-1,0,0
+142,7,52,Sevilla,Krohn-Dehli,Barcelona,1,1-0,2-1,0,0
+143,7,58,Sevilla,Iborra,Barcelona,1,2-0,2-1,0,0
+144,7,74,Barcelona,Neymar,Sevilla,0,2-1,2-1,1,0
+145,7,65,Granada,Piti,Deportivo,1,1-1,1-1,0,0
+146,7,25,Deportivo, Fajr,Granada,0,0-1,1-1,0,0
+147,7,62,Espanyol,Caicedo,Sporting,1,1-1,1-2,0,0
+148,7,9,Sporting,Halilovic,Espanyol,0,0-1,1-2,0,0
+149,7,92,Sporting,Álex Menéndez,Espanyol,0,1-2,1-2,0,0
+150,7,6,Eibar,Saúl Berjón,Las Palmas,0,0-1,0-2,0,0
+151,7,61,Eibar,Borja Bastón,Las Palmas,0,0-2,0-2,0,0
+152,7,4,Málaga,Charles,R. Sociedad,1,1-0,3-1,0,0
+153,7,7,Málaga,Charles,R. Sociedad,1,2-0,3-1,0,0
+154,7,89,Málaga,Charles,R. Sociedad,1,3-1,3-1,0,0
+155,7,14,R. Sociedad,Agirretxe,Málaga,0,2-1,3-1,0,0
+156,7,20,Betis,Westermann,Rayo,0,0-1,0-2,0,0
+157,7,61,Betis,Rubén Castro,Rayo,0,0-2,0-2,0,0
+158,7,33,Athletic,Laporte,Valencia,1,1-1,3-1,0,0
+159,7,59,Athletic,Susaeta,Valencia,1,2-1,3-1,0,0
+160,7,68,Athletic,Aduriz,Valencia,1,3-1,3-1,0,0
+161,7,19,Valencia,Parejo,Athletic,0,0-1,3-1,0,0
+162,7,82,Levante,Deyverson,Villarreal,1,1-0,1-0,0,0
+163,7,83,Atlético,Vietto,R. Madrid,1,1-1,1-1,0,0
+164,7,9,R. Madrid,Benzema,Atlético,0,0-1,1-1,0,0
+165,8,27,R. Madrid,Marcelo,Levante,1,1-0,3-0,0,0
+166,8,30,R. Madrid,Cristiano Ronaldo,Levante,1,2-0,3-0,0,0
+167,8,81,R. Madrid,Jesé,Levante,1,3-0,3-0,0,0
+168,8,7,Eibar,Borja Bastón,Sevilla,1,1-0,1-1,0,0
+169,8,71,Sevilla,Gameiro,Eibar,0,1-1,1-1,0,0
+170,8,22,Barcelona,Neymar,Rayo,1,1-1,5-2,1,0
+171,8,32,Barcelona,Neymar,Rayo,1,2-1,5-2,1,0
+172,8,69,Barcelona,Neymar,Rayo,1,3-1,5-2,0,0
+173,8,70,Barcelona,Neymar,Rayo,1,4-1,5-2,0,0
+174,8,76,Barcelona,Luis Suárez,Rayo,1,5-1,5-2,0,0
+175,8,14,Rayo,Javi Guerra,Barcelona,0,0-1,5-2,0,0
+176,8,86,Rayo,Jozabed,Barcelona,0,5-2,5-2,0,0
+177,8,19,Valencia,Charles,Málaga,1,1-0,3-0,0,1
+178,8,32,Valencia,André Gomes,Málaga,1,2-0,3-0,0,0
+179,8,88,Valencia,Parejo,Málaga,1,3-0,3-0,1,0
+180,8,89,Betis,Rennella,Espanyol,1,1-3,1-3,0,0
+181,8,4,Espanyol,Enzo Roco,Betis,0,0-1,1-3,0,0
+182,8,51,Espanyol,Caicedo,Betis,0,0-2,1-3,0,0
+183,8,55,Espanyol,Víctor Sánchez,Betis,0,0-3,1-3,0,0
+184,8,67,Villarreal,Denis Suárez,Celta,1,1-1,1-2,0,0
+185,8,41,Celta,Orellana,Villarreal,0,0-1,1-2,0,0
+186,8,90,Celta,Nolito,Villarreal,0,1-2,1-2,0,0
+187,8,9,Atlético,Griezmann,R. Sociedad,0,0-1,0-2,0,0
+188,8,91,Atlético,Carrasco,R. Sociedad,0,0-2,0-2,0,0
+189,8,3,Getafe,Víctor Rodríguez,Las Palmas,1,1-0,4-0,0,0
+190,8,11,Getafe,Sarabia,Las Palmas,1,2-0,4-0,0,0
+191,8,85,Getafe,Scepovic,Las Palmas,1,3-0,4-0,0,0
+192,8,92,Getafe,Scepovic,Las Palmas,1,4-0,4-0,0,0
+193,8,80,Deportivo,Lucas Pérez,Athletic,1,1-2,2-2,0,0
+194,8,89,Deportivo,Arribas,Athletic,1,2-2,2-2,0,0
+195,8,30,Athletic,Iñaki Williams,Deportivo,0,0-1,2-2,0,0
+196,8,63,Athletic,Aduriz,Deportivo,0,0-2,2-2,0,0
+197,8,8,Sporting,Bernardo,Granada,1,1-0,3-3,0,0
+198,8,88,Sporting,Cases,Granada,1,2-3,3-3,0,0
+199,8,95,Sporting,Guerrero,Granada,1,3-3,3-3,0,0
+200,8,20,Granada,Piti,Sporting,0,1-1,3-3,0,0
+201,8,40,Granada,Success,Sporting,0,1-2,3-3,0,0
+202,8,73,Granada,El-Arabi,Sporting,0,1-3,3-3,0,0
+203,9,29,Athletic,Susaeta,Sporting,1,1-0,3-0,0,0
+204,9,42,Athletic,Aduriz,Sporting,1,2-0,3-0,0,0
+205,9,67,Athletic,Aduriz,Sporting,1,3-0,3-0,0,0
+206,9,31,Atlético,Jackson Martínez,Valencia,1,1-0,2-1,0,0
+207,9,40,Atlético,Carrasco,Valencia,1,2-0,2-1,0,0
+208,9,72,Valencia,Paco Alcácer,Atlético,0,2-1,2-1,1,0
+209,9,21,Barcelona,Luis Suárez,Eibar,1,1-1,3-1,0,0
+210,9,48,Barcelona,Luis Suárez,Eibar,1,2-1,3-1,0,0
+211,9,85,Barcelona,Luis Suárez,Eibar,1,3-1,3-1,0,0
+212,9,9,Eibar,Borja Bastón,Barcelona,0,0-1,3-1,0,0
+213,9,8,R. Sociedad,Carlos Vela,Levante,0,0-1,0-4,0,0
+214,9,35,R. Sociedad,Agirretxe,Levante,0,0-2,0-4,0,0
+215,9,81,R. Sociedad,Illarramendi,Levante,0,0-3,0-4,0,0
+216,9,84,R. Sociedad,Carlos Vela,Levante,0,0-4,0-4,0,0
+217,9,62,Málaga,Tighadouini,Deportivo,1,1-0,2-0,0,0
+218,9,85,Málaga,Juankar,Deportivo,1,2-0,2-0,0,0
+219,9,35,Sevilla,Gameiro,Getafe,1,1-0,5-0,0,0
+220,9,45,Sevilla,Gameiro,Getafe,1,2-0,5-0,0,0
+221,9,50,Sevilla,Banega,Getafe,1,3-0,5-0,1,0
+222,9,60,Sevilla,Gameiro,Getafe,1,4-0,5-0,1,0
+223,9,81,Sevilla,Konoplyanka,Getafe,1,5-0,5-0,1,0
+224,9,2,Granada,Foulquier,Betis,1,1-0,1-1,0,0
+225,9,39,Betis,Rubén Castro,Granada,0,1-1,1-1,0,0
+226,9,85,Celta,Nolito,R. Madrid,1,1-2,1-3,0,0
+227,9,8,R. Madrid,Cristiano Ronaldo,Celta,0,0-1,1-3,0,0
+228,9,23,R. Madrid,Danilo,Celta,0,0-2,1-3,0,0
+229,9,95,R. Madrid,Marcelo,Celta,0,1-3,1-3,0,0
+230,9,36,Rayo,Trashorras,Espanyol,1,1-0,3-0,1,0
+231,9,75,Rayo,Javi Guerra,Espanyol,1,2-0,3-0,0,0
+232,9,78,Rayo,Javi Guerra,Espanyol,1,3-0,3-0,0,0
+233,10,21,Eibar,Diego Llorente,Rayo,1,1-0,1-0,0,1
+234,10,94,Espanyol,Caicedo,Granada,1,1-1,1-1,0,0
+235,10,58,Granada,Babin,Espanyol,0,0-1,1-1,0,0
+236,10,27,Sporting,Halilovic,Málaga,1,1-0,1-0,0,0
+237,10,67,Betis,Rubén Castro,Athletic,1,1-2,1-3,1,0
+238,10,8,Athletic,Iñaki Williams,Betis,0,0-1,1-3,0,0
+239,10,45,Athletic,Iñaki Williams,Betis,0,0-2,1-3,0,0
+240,10,87,Athletic,Raúl García,Betis,0,1-3,1-3,0,0
+241,10,11,R. Sociedad,Agirretxe,Celta,1,1-0,2-3,0,0
+242,10,37,R. Sociedad,Agirretxe,Celta,1,2-1,2-3,0,0
+243,10,17,Celta,Iago Aspas,R. Sociedad,0,1-1,2-3,0,0
+244,10,56,Celta,Iago Aspas,R. Sociedad,0,2-2,2-3,0,0
+245,10,89,Celta,Pablo Hernández,R. Sociedad,0,2-3,2-3,0,0
+246,10,37,Barcelona,Luis Suárez,Getafe,0,0-1,0-2,0,0
+247,10,58,Barcelona,Neymar,Getafe,0,0-2,0-2,0,0
+248,10,64,Valencia,Paco Alcácer,Levante,1,1-0,3-0,1,0
+249,10,72,Valencia,Feghouli,Levante,1,2-0,3-0,0,0
+250,10,79,Valencia,Bakkali,Levante,1,3-0,3-0,0,0
+251,10,25,Villarreal,Mario,Sevilla,1,1-0,2-1,0,0
+252,10,61,Villarreal,Bakambu,Sevilla,1,2-0,2-1,0,0
+253,10,76,Sevilla,Fernando Llorente,Villarreal,0,2-1,2-1,0,0
+254,10,4,R. Madrid,Isco,Las Palmas,1,1-0,3-1,0,0
+255,10,14,R. Madrid,Cristiano Ronaldo,Las Palmas,1,2-0,3-1,0,0
+256,10,43,R. Madrid,Jesé,Las Palmas,1,3-1,3-1,0,0
+257,10,38,Las Palmas,Hernán,R. Madrid,0,2-1,3-1,0,0
+258,10,76,Deportivo,Lucas Pérez,Atlético,1,1-1,1-1,0,0
+259,10,34,Atlético,Tiago,Deportivo,0,0-1,1-1,0,0
+260,11,28,Las Palmas,Jonathan Viera,R. Sociedad,1,1-0,2-0,0,0
+261,11,51,Las Palmas,Araujo,R. Sociedad,1,2-0,2-0,0,0
+262,11,23,Celta,Augusto Fernández,Valencia,1,1-1,1-5,0,0
+263,11,12,Valencia,Paco Alcácer,Celta,0,0-1,1-5,0,0
+264,11,45,Valencia,Parejo,Celta,0,1-2,1-5,0,0
+265,11,46,Valencia,Paco Alcácer,Celta,0,1-3,1-5,0,0
+266,11,64,Valencia,Parejo,Celta,0,1-4,1-5,0,0
+267,11,77,Valencia,Mustafi,Celta,0,1-5,1-5,0,0
+268,11,54,Levante,Camarasa,Deportivo,1,1-1,1-1,0,0
+269,11,23,Deportivo,Lucas Pérez,Levante,0,0-1,1-1,0,0
+270,11,3,Rayo,Javi Guerra,Granada,1,1-0,2-1,0,0
+271,11,10,Rayo,Javi Guerra,Granada,1,2-0,2-1,0,0
+272,11,53,Granada,Babin,Rayo,0,2-1,2-1,0,0
+273,11,15,Eibar,Sergi Enrich,Getafe,1,1-0,3-1,0,0
+274,11,29,Eibar,Sergi Enrich,Getafe,1,2-1,3-1,0,0
+275,11,61,Eibar,Saúl Berjón,Getafe,1,3-1,3-1,1,0
+276,11,22,Getafe,Víctor Rodríguez,Eibar,0,1-1,3-1,0,0
+277,11,64,Betis,Rubén Castro,Málaga,0,0-1,0-1,0,0
+278,11,8,Athletic,Iñaki Williams,Espanyol,1,1-0,2-1,0,0
+279,11,64,Athletic,Raúl García,Espanyol,1,2-1,2-1,0,0
+280,11,51,Espanyol,Hernán Pérez,Athletic,0,1-1,2-1,0,0
+281,11,60,Barcelona,Neymar,Villarreal,1,1-0,3-0,0,0
+282,11,70,Barcelona,Luis Suárez,Villarreal,1,2-0,3-0,1,0
+283,11,85,Barcelona,Neymar,Villarreal,1,3-0,3-0,0,0
+284,11,93,Atlético,Griezmann,Sporting,1,1-0,1-0,0,0
+285,11,35,Sevilla,Immobile,R. Madrid,1,1-1,3-2,0,0
+286,11,61,Sevilla,Banega,R. Madrid,1,2-1,3-2,0,0
+287,11,75,Sevilla,Fernando Llorente,R. Madrid,1,3-1,3-2,0,0
+288,11,22,R. Madrid,Ramos,Sevilla,0,0-1,3-2,0,0
+289,11,93,R. Madrid,James Rodríguez,Sevilla,0,3-2,3-2,0,0
+290,12,57,Getafe,Jozabed,Rayo,1,1-0,1-1,0,1
+291,12,72,Rayo,Jozabed,Getafe,0,1-1,1-1,0,0
+292,12,72,R. Sociedad,Agirretxe,Sevilla,1,1-0,2-0,0,0
+293,12,77,R. Sociedad,Xabi Prieto,Sevilla,1,2-0,2-0,0,0
+294,12,11,Barcelona,Luis Suárez,R. Madrid,0,0-1,0-4,0,0
+295,12,39,Barcelona,Neymar,R. Madrid,0,0-2,0-4,0,0
+296,12,53,Barcelona,Iniesta,R. Madrid,0,0-3,0-4,0,0
+297,12,74,Barcelona,Luis Suárez,R. Madrid,0,0-4,0-4,0,0
+298,12,6,Espanyol,Hernán Pérez,Málaga,1,1-0,2-0,0,0
+299,12,20,Espanyol,Hernán Pérez,Málaga,1,2-0,2-0,0,0
+300,12,8,Valencia,Paco Alcácer,Las Palmas,1,1-0,1-1,0,0
+301,12,57,Las Palmas,Jonathan Viera,Valencia,0,1-1,1-1,0,0
+302,12,22,Deportivo,Lucas Pérez,Celta,1,1-0,2-0,0,0
+303,12,46,Deportivo,Jonny,Celta,1,2-0,2-0,0,1
+304,12,18,Levante,Deyverson,Sporting,0,0-1,0-3,0,0
+305,12,27,Levante,Feddal,Sporting,0,0-2,0-3,0,0
+306,12,44,Levante,Deyverson,Sporting,0,0-3,0-3,0,0
+307,12,85,Villarreal,Jaume Costa,Eibar,1,1-1,1-1,0,0
+308,12,27,Eibar,Sergi Enrich,Villarreal,0,0-1,1-1,0,0
+309,12,4,Granada,Laporte,Athletic,1,1-0,2-0,0,1
+310,12,59,Granada,Success,Athletic,1,2-0,2-0,0,0
+311,12,7,Atlético,Koke,Betis,0,0-1,0-1,0,0
+312,13,4,Betis,Rubén Castro,Levante,0,0-1,0-1,0,0
+313,13,22,Barcelona,Neymar,R. Sociedad,1,1-0,4-0,0,0
+314,13,41,Barcelona,Luis Suárez,R. Sociedad,1,2-0,4-0,0,0
+315,13,53,Barcelona,Neymar,R. Sociedad,1,3-0,4-0,0,0
+316,13,90,Barcelona,Messi,R. Sociedad,1,4-0,4-0,0,0
+317,13,3,Atlético,Griezmann,Espanyol,1,1-0,1-0,0,0
+318,13,45,Málaga,Charles,Granada,1,1-0,2-2,0,0
+319,13,57,Málaga,Fornals,Granada,1,2-0,2-2,0,0
+320,13,82,Granada,El-Arabi,Málaga,0,2-1,2-2,0,0
+321,13,85,Granada,Rochina,Málaga,0,2-2,2-2,0,0
+322,13,15,Celta,Orellana,Sporting,1,1-0,2-1,0,0
+323,13,85,Celta,Nolito,Sporting,1,2-1,2-1,0,0
+324,13,65,Sporting,Carlos Castro,Celta,0,1-1,2-1,0,0
+325,13,19,Deportivo,David Simón,Las Palmas,0,0-1,0-2,0,1
+326,13,90,Deportivo,Lucas Pérez,Las Palmas,0,0-2,0-2,0,0
+327,13,21,Getafe,Lafita,Villarreal,1,1-0,2-0,0,0
+328,13,51,Getafe,Álvaro Vázquez,Villarreal,1,2-0,2-0,0,0
+329,13,43,R. Madrid,Bale,Eibar,0,0-1,0-2,0,0
+330,13,82,R. Madrid,Cristiano Ronaldo,Eibar,0,0-2,0-2,0,0
+331,13,1,Athletic,Aduriz,Rayo,0,0-1,0-3,0,0
+332,13,23,Athletic,Aduriz,Rayo,0,0-2,0-3,0,0
+333,13,59,Athletic,Aduriz,Rayo,0,0-3,0-3,0,0
+334,13,50,Sevilla,Escudero,Valencia,1,1-0,1-0,0,0
+335,14,4,R. Madrid,Benzema,Getafe,1,1-0,4-1,0,0
+336,14,16,R. Madrid,Benzema,Getafe,1,2-0,4-1,0,0
+337,14,35,R. Madrid,Bale,Getafe,1,3-0,4-1,0,0
+338,14,38,R. Madrid,Cristiano Ronaldo,Getafe,1,4-0,4-1,0,0
+339,14,69,Getafe,Alexis,R. Madrid,0,4-1,4-1,0,0
+340,14,20,Atlético,Godín,Granada,0,0-1,0-2,0,0
+341,14,76,Atlético,Griezmann,Granada,0,0-2,0-2,0,0
+342,14,86,Valencia,Santi Mina,Barcelona,1,1-1,1-1,0,0
+343,14,59,Barcelona,Luis Suárez,Valencia,0,0-1,1-1,0,0
+344,14,22,Deportivo,Lucas Pérez,Sevilla,1,1-0,1-1,0,0
+345,14,76,Sevilla,Iborra,Deportivo,0,1-1,1-1,0,0
+346,14,82,Betis,Jorge Molina,Celta,1,1-1,1-1,0,0
+347,14,25,Celta,Bongonda,Betis,0,0-1,1-1,0,0
+348,14,10,R. Sociedad,Agirretxe,Eibar,1,1-1,2-1,0,0
+349,14,90,R. Sociedad,Agirretxe,Eibar,1,2-1,2-1,0,0
+350,14,4,Eibar,Borja Bastón,R. Sociedad,0,0-1,2-1,0,0
+351,14,69,Villarreal,Bakambu,Rayo,1,1-1,2-1,0,0
+352,14,85,Villarreal,Bakambu,Rayo,1,2-1,2-1,0,0
+353,14,41,Rayo,Jozabed,Villarreal,0,0-1,2-1,0,0
+354,14,16,Sporting,Sanabria,Las Palmas,1,1-0,3-1,0,0
+355,14,77,Sporting,Sanabria,Las Palmas,1,2-1,3-1,0,0
+356,14,83,Sporting,Sanabria,Las Palmas,1,3-1,3-1,0,0
+357,14,38,Las Palmas,El Zhar,Sporting,0,1-1,3-1,0,0
+358,14,56,Espanyol,Gerard Moreno,Levante,1,1-1,1-1,0,0
+359,14,6,Levante,Lerma,Espanyol,0,0-1,1-1,0,0
+360,15,47,Atlético,Saúl,Athletic,1,1-1,2-1,0,0
+361,15,67,Atlético,Griezmann,Athletic,1,2-1,2-1,0,0
+362,15,27,Athletic,Laporte,Atlético,0,0-1,2-1,0,0
+363,15,8,Villarreal,Soldado,R. Madrid,1,1-0,1-0,0,0
+364,15,44,Eibar,Sergi Enrich,Valencia,1,1-0,1-1,0,0
+365,15,85,Valencia,Juncà,Eibar,0,1-1,1-1,0,1
+366,15,6,Rayo,Javi Guerra,Málaga,1,1-0,1-2,0,0
+367,15,59,Málaga,Charles,Rayo,0,1-1,1-2,0,0
+368,15,87,Málaga,Cop,Rayo,0,1-2,1-2,0,0
+369,15,92,Las Palmas,Willian José,Betis,1,1-0,1-0,0,0
+370,15,75,Sevilla,Gameiro,Sporting,1,1-0,2-0,1,0
+371,15,80,Sevilla,Gameiro,Sporting,1,2-0,2-0,0,0
+372,15,42,Celta,Iago Aspas,Espanyol,1,1-0,1-0,0,0
+373,15,65,Levante,Simao,Granada,1,1-1,1-2,0,0
+374,15,49,Granada,Peñaranda,Levante,0,0-1,1-2,0,0
+375,15,87,Granada,Peñaranda,Levante,0,1-2,1-2,0,0
+376,15,38,Barcelona,Messi,Deportivo,1,1-0,2-2,0,0
+377,15,62,Barcelona,Rakitic,Deportivo,1,2-0,2-2,0,0
+378,15,77,Deportivo,Lucas Pérez,Barcelona,0,2-1,2-2,0,0
+379,15,86,Deportivo,Álex Bergantiños,Barcelona,0,2-2,2-2,0,0
+380,15,47,Getafe,Sarabia,R. Sociedad,1,1-0,1-1,0,0
+381,15,68,R. Sociedad,Agirretxe,Getafe,0,1-1,1-1,0,0
+382,16,14,Valencia,Paco Alcácer,Getafe,1,1-1,2-2,0,0
+383,16,35,Valencia,Santi Mina,Getafe,1,2-2,2-2,0,0
+384,16,10,Getafe,Sarabia,Valencia,0,0-1,2-2,0,0
+385,16,22,Getafe,Lafita,Valencia,0,1-2,2-2,0,0
+386,16,66,Espanyol,Caicedo,Las Palmas,1,1-0,1-0,0,0
+387,16,41,Deportivo,Lucas Pérez,Eibar,1,1-0,2-0,0,0
+388,16,73,Deportivo,Arribas,Eibar,1,2-0,2-0,0,0
+389,16,3,R. Madrid,Danilo,Rayo,1,1-0,10-2,0,0
+390,16,25,R. Madrid,Bale,Rayo,1,2-2,10-2,0,0
+391,16,30,R. Madrid,Cristiano Ronaldo,Rayo,1,3-2,10-2,0,0
+392,16,42,R. Madrid,Bale,Rayo,1,4-2,10-2,0,0
+393,16,48,R. Madrid,Benzema,Rayo,1,5-2,10-2,0,0
+394,16,54,R. Madrid,Cristiano Ronaldo,Rayo,1,6-2,10-2,0,0
+395,16,61,R. Madrid,Bale,Rayo,1,7-2,10-2,0,0
+396,16,70,R. Madrid,Bale,Rayo,1,8-2,10-2,0,0
+397,16,79,R. Madrid,Benzema,Rayo,1,9-2,10-2,0,0
+398,16,90,R. Madrid,Benzema,Rayo,1,10-2,10-2,0,0
+399,16,10,Rayo,Amaya,R. Madrid,0,1-1,10-2,0,0
+400,16,12,Rayo,Jozabed,R. Madrid,0,1-2,10-2,0,0
+401,16,27,Villarreal,Denis Suárez,R. Sociedad,0,0-1,0-2,0,0
+402,16,88,Villarreal,Denis Suárez,R. Sociedad,0,0-2,0-2,0,0
+403,16,55,Athletic,San José,Levante,1,1-0,2-0,0,0
+404,16,82,Athletic,Iñaki Williams,Levante,1,2-0,2-0,0,0
+405,16,21,Celta,Orellana,Granada,0,0-1,0-2,0,0
+406,16,45,Celta,Iago Aspas,Granada,0,0-2,0-2,0,0
+407,16,86,Málaga,Charles,Atlético,1,1-0,1-0,0,0
+408,16,27,Sporting,Carlos Castro,Barcelona,1,1-1,1-3,0,0
+409,16,25,Barcelona,Messi,Sporting,0,0-1,1-3,0,0
+410,16,31,Barcelona,Messi,Sporting,0,1-2,1-3,0,0
+411,16,67,Barcelona,Luis Suárez,Sporting,0,1-3,1-3,0,0
+412,17,42,R. Madrid,Cristiano Ronaldo,R. Sociedad,1,1-0,3-1,0,0
+413,17,67,R. Madrid,Cristiano Ronaldo,R. Sociedad,1,2-1,3-1,0,0
+414,17,87,R. Madrid,Lucas Vázquez,R. Sociedad,1,3-1,3-1,0,0
+415,17,49,R. Sociedad,Bruma,R. Madrid,0,1-1,3-1,0,0
+416,17,84,Málaga,Duda,Levante,0,0-1,0-1,0,0
+417,17,88,Atlético,Correa,Rayo,0,0-1,0-2,0,0
+418,17,90,Atlético,Griezmann,Rayo,0,0-2,0-2,0,0
+419,17,16,Sevilla,Immobile,Espanyol,1,1-0,2-0,0,0
+420,17,41,Sevilla,Banega,Espanyol,1,2-0,2-0,0,0
+421,17,55,Eibar,Keko,Sporting,1,1-0,2-0,0,0
+422,17,62,Eibar,Borja Bastón,Sporting,1,2-0,2-0,0,0
+423,17,30,Barcelona,Westermann,Betis,1,1-0,4-0,0,1
+424,17,34,Barcelona,Messi,Betis,1,2-0,4-0,0,0
+425,17,47,Barcelona,Luis Suárez,Betis,1,3-0,4-0,0,0
+426,17,83,Barcelona,Luis Suárez,Betis,1,4-0,4-0,0,0
+427,17,71,Athletic,Raúl García,Celta,0,0-1,0-1,0,0
+428,17,32,Las Palmas,Tana,Granada,1,1-0,4-1,0,0
+429,17,50,Las Palmas,Araujo,Granada,1,2-0,4-1,0,0
+430,17,80,Las Palmas,Jonathan Viera,Granada,1,3-1,4-1,1,0
+431,17,92,Las Palmas,Lombán,Granada,1,4-1,4-1,1,1
+432,17,56,Granada,Peñaranda,Las Palmas,0,2-1,4-1,0,0
+433,17,64,Villarreal,Bruno,Valencia,1,1-0,1-0,0,0
+434,18,15,Sporting,Sanabria,Getafe,1,1-0,1-2,0,0
+435,18,69,Getafe,Cala,Sporting,0,1-1,1-2,0,0
+436,18,70,Getafe,Sarabia,Sporting,0,1-2,1-2,0,0
+437,18,45,Valencia,Parejo,R. Madrid,1,1-1,2-2,0,0
+438,18,83,Valencia,Paco Alcácer,R. Madrid,1,2-2,2-2,0,0
+439,18,17,R. Madrid,Benzema,Valencia,0,0-1,2-2,0,0
+440,18,82,R. Madrid,Bale,Valencia,0,1-2,2-2,0,0
+441,18,48,Deportivo,Luis Alberto,Villarreal,1,1-1,1-2,0,0
+442,18,36,Villarreal,Bruno,Deportivo,0,0-1,1-2,0,0
+443,18,95,Villarreal,Bruno,Deportivo,0,1-2,1-2,0,0
+444,18,16,Athletic,Aduriz,Las Palmas,1,1-0,2-2,1,0
+445,18,66,Athletic,Iñaki Williams,Las Palmas,1,2-1,2-2,0,0
+446,18,62,Las Palmas,Vicente Gómez,Athletic,0,1-1,2-2,0,0
+447,18,80,Las Palmas,Tana,Athletic,0,2-2,2-2,0,0
+448,18,17,Granada,Success,Sevilla,1,1-0,2-1,0,0
+449,18,36,Granada,Peñaranda,Sevilla,1,2-0,2-1,0,0
+450,18,45,Sevilla,Vitolo,Granada,0,2-1,2-1,0,0
+451,18,3,Eibar,Capa,Betis,0,0-1,0-4,0,0
+452,18,18,Eibar,Keko,Betis,0,0-2,0-4,0,0
+453,18,66,Eibar,Adrián,Betis,0,0-3,0-4,0,0
+454,18,82,Eibar,Borja Bastón,Betis,0,0-4,0-4,0,0
+455,18,16,Rayo,Diego Llorente,R. Sociedad,1,1-0,2-2,0,0
+456,18,49,Rayo,Jozabed,R. Sociedad,1,2-1,2-2,0,0
+457,18,27,R. Sociedad,Aritz Elustondo,Rayo,0,1-1,2-2,0,0
+458,18,62,R. Sociedad,Bruma,Rayo,0,2-2,2-2,0,0
+459,18,8,Málaga,Charles,Celta,1,1-0,2-0,0,0
+460,18,26,Málaga,Albentosa,Celta,1,2-0,2-0,0,0
+461,18,80,Atlético,Thomas,Levante,1,1-0,1-0,0,0
+462,19,8,Barcelona,Messi,Granada,1,1-0,4-0,0,0
+463,19,14,Barcelona,Messi,Granada,1,2-0,4-0,0,0
+464,19,57,Barcelona,Messi,Granada,1,3-0,4-0,0,0
+465,19,83,Barcelona,Neymar,Granada,1,4-0,4-0,0,0
+466,19,24,Sevilla,Gameiro,Athletic,1,1-0,2-0,0,0
+467,19,59,Sevilla,Gameiro,Athletic,1,2-0,2-0,1,0
+468,19,57,Getafe,Álvaro Vázquez,
+Betis,1,1-0,1-0,0,0
+469,19,15,R. Madrid,Benzema,Deportivo,1,1-0,5-0,0,0
+470,19,22,R. Madrid,Bale,Deportivo,1,2-0,5-0,0,0
+471,19,49,R. Madrid,Bale,Deportivo,1,3-0,5-0,0,0
+472,19,63,R. Madrid,Bale,Deportivo,1,4-0,5-0,0,0
+473,19,91,R. Madrid,Benzema,Deportivo,1,5-0,5-0,0,0
+474,19,72,Levante,Deyverson,Rayo,1,1-0,2-1,0,0
+475,19,81,Levante,Morales,Rayo,1,2-0,2-1,0,0
+476,19,83,Rayo,Pablo Hernández,Levante,0,2-1,2-1,0,0
+477,19,26,Villarreal,Bakambu,Sporting,1,1-0,2-0,0,0
+478,19,51,Villarreal,Bakambu,Sporting,1,2-0,2-0,0,0
+479,19,78,R. Sociedad,Jonathas,Valencia,1,1-0,2-0,0,0
+480,19,82,R. Sociedad,Jonathas,Valencia,1,2-0,2-0,0,0
+481,19,15,Eibar,Inui,Espanyol,1,1-0,2-1,0,0
+482,19,73,Eibar,Borja Bastón,Espanyol,1,2-1,2-1,1,0
+483,19,21,Espanyol,Joan Jordán,Eibar,0,1-1,2-1,0,0
+484,19,51,Las Palmas,Tana,Málaga,1,1-0,1-1,0,0
+485,19,72,Málaga,Santa Cruz,Las Palmas,0,1-1,1-1,0,0
+486,19,49,Atlético,Griezmann,Celta,0,0-1,0-2,0,0
+487,19,79,Atlético,Carrasco,Celta,0,0-2,0-2,0,0
+488,20,35,Eibar,Inui,Granada,1,1-0,5-1,0,0
+489,20,38,Eibar,Sergi Enrich,Granada,1,2-0,5-1,0,0
+490,20,67,Eibar,Sergi Enrich,Granada,1,3-1,5-1,0,0
+491,20,74,Eibar,Borja Bastón,Granada,1,4-1,5-1,0,0
+492,20,79,Eibar,Borja Bastón,Granada,1,5-1,5-1,0,0
+493,20,65,Granada,El-Arabi,Eibar,0,2-1,5-1,0,0
+494,20,7,Barcelona,Messi,Athletic,1,1-0,6-0,1,0
+495,20,31,Barcelona,Neymar,Athletic,1,2-0,6-0,0,0
+496,20,47,Barcelona,Luis Suárez,Athletic,1,3-0,6-0,0,0
+497,20,62,Barcelona,Rakitic,Athletic,1,4-0,6-0,0,0
+498,20,68,Barcelona,Luis Suárez,Athletic,1,5-0,6-0,0,0
+499,20,82,Barcelona,Luis Suárez,Athletic,1,6-0,6-0,0,0
+500,20,29,Getafe,Pedro León,Espanyol,1,1-1,3-1,0,0
+501,20,36,Getafe,Sarabia,Espanyol,1,2-1,3-1,0,0
+502,20,93,Getafe,Moi Gómez,Espanyol,1,3-1,3-1,0,0
+503,20,26,Espanyol,Hernán Pérez,Getafe,0,0-1,3-1,0,0
+504,20,17,Atlético,Filipe Luis,Las Palmas,0,0-1,0-3,0,0
+505,20,68,Atlético,Griezmann,Las Palmas,0,0-2,0-3,0,0
+506,20,89,Atlético,Griezmann,Las Palmas,0,0-3,0-3,0,0
+507,20,7,R. Madrid,Bale,Sporting,1,1-0,5-1,0,0
+508,20,9,R. Madrid,Cristiano Ronaldo,Sporting,1,2-0,5-1,0,0
+509,20,12,R. Madrid,Benzema,Sporting,1,3-0,5-1,0,0
+510,20,18,R. Madrid,Cristiano Ronaldo,Sporting,1,4-0,5-1,0,0
+511,20,41,R. Madrid,Benzema,Sporting,1,5-0,5-1,0,0
+512,20,62,Sporting,Isma López,R. Madrid,0,5-1,5-1,0,0
+513,20,55,Valencia,Negredo,Rayo,1,1-1,2-2,0,0
+514,20,88,Valencia,Paco Alcácer,Rayo,1,2-2,2-2,0,0
+515,20,15,Rayo,Jozabed,Valencia,0,0-1,2-2,0,0
+516,20,69,Rayo,Diego Llorente,Valencia,0,1-2,2-2,0,0
+517,20,74,R. Sociedad,Xabi Prieto,Deportivo,1,1-1,1-1,1,0
+518,20,26,Deportivo,Luis Alberto,R. Sociedad,0,0-1,1-1,0,0
+519,20,35,Celta,Guidetti,Levante,1,1-0,4-3,0,0
+520,20,40,Celta,Guidetti,Levante,1,2-0,4-3,0,0
+521,20,57,Celta,Iago Aspas,Levante,1,3-0,4-3,0,0
+522,20,84,Celta,Orellana,Levante,1,4-2,4-3,0,0
+523,20,63,Levante,Deyverson,Celta,0,3-1,4-3,0,0
+524,20,65,Levante,Pedro López,Celta,0,3-2,4-3,0,0
+525,20,89,Levante,Morales,Celta,0,4-3,4-3,0,0
+526,20,40,Sevilla,Gameiro,Málaga,1,1-0,2-1,0,0
+527,20,41,Sevilla,Gameiro,Málaga,1,2-0,2-1,0,0
+528,20,74,Málaga,Charles,Sevilla,0,2-1,2-1,0,0
+529,21,25,Levante,Morales,Las Palmas,1,1-0,3-2,0,0
+530,21,47,Levante,Deyverson,Las Palmas,1,2-0,3-2,0,0
+531,21,64,Levante,Morales,Las Palmas,1,3-1,3-2,0,0
+532,21,49,Las Palmas,Willian José,Levante,0,2-1,3-2,0,0
+533,21,66,Las Palmas,Willian José,Levante,0,3-2,3-2,0,0
+534,21,7,Betis,Álvaro Cejudo,R. Madrid,1,1-0,1-1,0,0
+535,21,71,R. Madrid,Benzema,Betis,0,1-1,1-1,0,0
+536,21,27,Deportivo,Lucas Pérez,Valencia,1,1-0,1-1,0,0
+537,21,93,Valencia,Negredo,Deportivo,0,1-1,1-1,0,0
+538,21,1,Sporting,Carmona,R. Sociedad,1,1-0,5-1,0,0
+539,21,9,Sporting,Dani Ndi,R. Sociedad,1,2-0,5-1,0,0
+540,21,44,Sporting,Sanabria,R. Sociedad,1,3-1,5-1,0,0
+541,21,53,Sporting,Sanabria,R. Sociedad,1,4-1,5-1,0,0
+542,21,81,Sporting,Sanabria,R. Sociedad,1,5-1,5-1,0,0
+543,21,37,R. Sociedad,Carlos Vela,Sporting,0,2-1,5-1,0,0
+544,21,32,Málaga,Juanpi,Barcelona,1,1-1,1-2,0,0
+545,21,2,Barcelona,Munir,Málaga,0,0-1,1-2,0,0
+546,21,51,Barcelona,Messi,Málaga,0,1-2,1-2,0,0
+547,21,3,Espanyol,Caicedo,Villarreal,1,1-0,2-2,0,0
+548,21,39,Espanyol,Gerard Moreno,Villarreal,1,2-1,2-2,0,0
+549,21,23,Villarreal,Manu Trigueros,Espanyol,0,1-1,2-2,0,0
+550,21,88,Villarreal,Musacchio,Espanyol,0,2-2,2-2,0,0
+551,21,27,Granada,Fran Rico,Getafe,1,1-0,3-2,0,0
+552,21,36,Granada,El-Arabi,Getafe,1,2-0,3-2,0,0
+553,21,76,Granada,Rochina,Getafe,1,3-2,3-2,0,0
+554,21,70,Getafe,Scepovic,Granada,0,2-1,3-2,0,0
+555,21,73,Getafe,Moi Gómez,Granada,0,2-2,3-2,0,0
+556,21,21,Rayo,Miku,Celta,1,1-0,3-0,0,0
+557,21,26,Rayo,Tito,Celta,1,2-0,3-0,0,0
+558,21,36,Rayo,Jozabed,Celta,1,3-0,3-0,0,0
+559,21,12,Athletic,Aduriz,Eibar,1,1-1,5-2,0,0
+560,21,27,Athletic,Sabin Merino,Eibar,1,2-1,5-2,0,0
+561,21,40,Athletic,Laporte,Eibar,1,3-1,5-2,0,0
+562,21,52,Athletic,Aduriz,Eibar,1,4-2,5-2,0,0
+563,21,46,Athletic,Dos Santos,Eibar,1,5-2,5-2,0,1
+564,21,3,Eibar,Borja Bastón,Athletic,0,0-1,5-2,0,0
+565,21,50,Eibar,Borja Bastón,Athletic,0,3-2,5-2,1,0
+566,22,19,Deportivo,Lucas Pérez,Rayo,1,1-1,2-2,0,0
+567,22,47,Deportivo,Fajr,Rayo,1,2-2,2-2,0,0
+568,22,8,Rayo,Miku,Deportivo,0,0-1,2-2,0,0
+569,22,23,Rayo,Jozabed,Deportivo,0,1-2,2-2,0,0
+570,22,7,R. Madrid,Benzema,Espanyol,1,1-0,6-0,0,0
+571,22,12,R. Madrid,Cristiano Ronaldo,Espanyol,1,2-0,6-0,1,0
+572,22,16,R. Madrid,James Rodríguez,Espanyol,1,3-0,6-0,0,0
+573,22,45,R. Madrid,Cristiano Ronaldo,Espanyol,1,4-0,6-0,0,0
+574,22,82,R. Madrid,Cristiano Ronaldo,Espanyol,1,5-0,6-0,0,0
+575,22,86,R. Madrid,Duarte,Espanyol,1,6-0,6-0,0,1
+576,22,33,Las Palmas,Jonathan Viera,Celta,1,1-1,2-1,1,1
+577,22,90,Las Palmas,Willian José,Celta,1,2-1,2-1,0,0
+578,22,5,Celta,Bongonda,Las Palmas,0,0-1,2-1,0,0
+579,22,50,Sporting,Sanabria,Valencia,0,0-1,0-1,1,0
+580,22,1,Sevilla,Gameiro,Levante,1,1-0,3-1,0,0
+581,22,47,Sevilla,Iborra,Levante,1,2-0,3-1,0,0
+582,22,76,Sevilla,Konoplyanka,Levante,1,3-1,3-1,0,0
+583,22,55,Levante,Rossi,Sevilla,0,2-1,3-1,0,0
+584,22,18,R. Sociedad,Xabi Prieto,Betis,1,1-0,2-1,0,0
+585,22,33,R. Sociedad,Iñigo Martínez,Betis,1,2-0,2-1,0,0
+586,22,50,Betis,Rubén Castro,R. Sociedad,0,2-1,2-1,0,0
+587,22,54,Villarreal,Bruno,Granada,1,1-0,1-0,0,0
+588,22,90,Eibar,Borja Bastón,Málaga,1,1-2,1-2,0,0
+589,22,44,Málaga,Juanpi,Eibar,0,0-1,1-2,0,0
+590,22,90,Málaga,Santa Cruz,Eibar,0,0-2,1-2,0,0
+591,22,25,Athletic,Iñaki Williams,Getafe,0,0-1,0-1,0,0
+592,22,30,Barcelona,Messi,Atlético,1,1-1,2-1,0,0
+593,22,38,Barcelona,Luis Suárez,Atlético,1,2-1,2-1,0,0
+594,22,10,Atlético,Koke,Barcelona,0,0-1,2-1,0,0
+595,23,5,R. Sociedad,Jonathas,Espanyol,0,0-1,0-5,0,0
+596,23,8,R. Sociedad,Carlos Vela,Espanyol,0,0-2,0-5,0,0
+597,23,52,R. Sociedad,Oyarzabal,Espanyol,0,0-3,0-5,0,0
+598,23,55,R. Sociedad,Diego Reyes,Espanyol,0,0-4,0-5,0,0
+599,23,89,R. Sociedad,Jonathas,Espanyol,0,0-5,0-5,0,0
+600,23,60,Granada,El-Arabi,R. Madrid,1,1-1,1-2,0,0
+601,23,30,R. Madrid,Benzema,Granada,0,0-1,1-2,0,0
+602,23,85,R. Madrid,Modric,Granada,0,1-2,1-2,0,0
+603,23,63,Celta,Beauvue,Sevilla,1,1-1,1-1,0,0
+604,23,42,Sevilla,Carriço,Celta,0,0-1,1-1,0,0
+605,23,49,Betis,Rubén Castro,Valencia,1,1-0,1-0,0,0
+606,23,21,Barcelona,David Navarro,Levante,0,0-1,0-2,0,1
+607,23,92,Barcelona,Luis Suárez,Levante,0,0-2,0-2,0,0
+608,23,56,Atlético,Giménez,Eibar,1,1-1,3-1,0,0
+609,23,63,Atlético,Saúl,Eibar,1,2-1,3-1,0,0
+610,23,91,Atlético,Fernando Torres,Eibar,1,3-1,3-1,0,0
+611,23,46,Eibar,Keko,Atlético,0,0-1,3-1,0,0
+612,23,3,Rayo,Miku,Las Palmas,1,1-0,2-0,0,0
+613,23,73,Rayo,Bebé,Las Palmas,1,2-0,2-0,0,0
+614,23,9,Málaga,Juanpi,Getafe,1,1-0,3-0,0,0
+615,23,24,Málaga,Atsu,Getafe,1,2-0,3-0,0,0
+616,23,43,Málaga,Charles,Getafe,1,3-0,3-0,0,0
+617,23,32,Sporting,Jony,Deportivo,1,1-0,1-1,0,0
+618,23,41,Deportivo,Luis Alberto,Sporting,0,1-1,1-1,0,0
+619,24,20,R. Sociedad,Oyarzabal,Granada,1,1-0,3-0,0,0
+620,24,45,R. Sociedad,Jonathas,Granada,1,2-0,3-0,0,0
+621,24,60,R. Sociedad,Oyarzabal,Granada,1,3-0,3-0,0,0
+622,24,69,Sevilla,Banega,Las Palmas,1,1-0,2-0,0,0
+623,24,75,Sevilla,Gameiro,Las Palmas,1,2-0,2-0,0,0
+624,24,1,Atlético,Fernando Torres,Getafe,0,0-1,0-1,0,0
+625,24,38,Eibar,Borja Bastón,Levante,1,1-0,2-0,0,0
+626,24,58,Eibar,Adrián,Levante,1,2-0,2-0,0,0
+627,24,28,Barcelona,Messi,Celta,1,1-0,6-1,0,0
+628,24,59,Barcelona,Luis Suárez,Celta,1,2-1,6-1,0,0
+629,24,75,Barcelona,Luis Suárez,Celta,1,3-1,6-1,0,0
+630,24,81,Barcelona,Luis Suárez,Celta,1,4-1,6-1,0,0
+631,24,84,Barcelona,Rakitic,Celta,1,5-1,6-1,0,0
+632,24,90,Barcelona,Neymar,Celta,1,6-1,6-1,0,0
+633,24,39,Celta,Guidetti,Barcelona,0,1-1,6-1,1,0
+634,24,15,Deportivo,Álex Bergantiños,Betis,1,1-0,2-2,0,0
+635,24,51,Deportivo,Fajr,Betis,1,2-2,2-2,0,0
+636,24,20,Betis,Musonda Jr,Deportivo,0,1-1,2-2,0,0
+637,24,38,Betis,Vargas,Deportivo,0,1-2,2-2,0,0
+638,24,70,Valencia,Negredo,Espanyol,1,1-1,2-1,0,0
+639,24,76,Valencia,Cheryshev,Espanyol,1,2-1,2-1,0,0
+640,24,52,Espanyol,Óscar Duarte,Valencia,0,0-1,2-1,0,0
+641,24,18,Villarreal,Soldado,Málaga,1,1-0,1-0,0,0
+642,24,3,R. Madrid,Cristiano Ronaldo,Athletic,1,1-0,4-2,0,0
+643,24,37,R. Madrid,James Rodríguez,Athletic,1,2-1,4-2,0,0
+644,24,45,R. Madrid,Kroos,Athletic,1,3-1,4-2,0,0
+645,24,87,R. Madrid,Cristiano Ronaldo,Athletic,1,4-1,4-2,0,0
+646,24,10,Athletic,Eraso,R. Madrid,0,1-1,4-2,0,0
+647,24,90,Athletic,Elustondo,R. Madrid,0,4-2,4-2,0,0
+648,24,5,Sporting,Guerrero,Rayo,1,1-0,2-2,0,0
+649,24,46,Sporting,Halilovic,Rayo,1,2-1,2-2,0,0
+650,24,39,Rayo,Miku,Sporting,0,1-1,2-2,0,0
+651,24,58,Rayo,Jozabed,Sporting,0,2-2,2-2,0,0
+652,25,17,R. Sociedad,Jonathas,Athletic,0,0-1,0-1,0,0
+653,25,91,Granada,Edgar Méndez,Valencia,1,1-2,1-2,0,0
+654,25,55,Valencia,Parejo,Granada,0,0-1,1-2,0,0
+655,25,90,Valencia,Santi Mina,Granada,0,0-2,1-2,0,0
+656,25,66,Málaga,Albentosa,R. Madrid,1,1-1,1-1,0,0
+657,25,33,R. Madrid,Cristiano Ronaldo,Málaga,0,0-1,1-1,0,0
+658,25,43,Rayo,Manucho,Sevilla,1,1-2,2-2,0,0
+659,25,62,Rayo,Miku,Sevilla,1,2-2,2-2,0,0
+660,25,10,Sevilla,N'Zonzi,Rayo,0,0-1,2-2,0,0
+661,25,20,Sevilla,Iborra,Rayo,0,0-2,2-2,0,0
+662,25,30,Celta,Guidetti,Eibar,1,1-0,3-2,0,0
+663,25,39,Celta,Jonny,Eibar,1,2-0,3-2,0,0
+664,25,69,Celta,Guidetti,Eibar,1,3-0,3-2,0,0
+665,25,83,Eibar,Saúl Berjón,Celta,0,3-1,3-2,1,0
+666,25,86,Eibar,Inui,Celta,0,3-2,3-2,0,0
+667,25,67,Betis,Pezzella,Sporting,1,1-1,1-1,0,0
+668,25,65,Sporting,Carlos Castro,Betis,0,0-1,1-1,0,0
+669,25,52,Espanyol,Marco Asensio,Deportivo,1,1-0,1-0,0,0
+670,25,10,Las Palmas,Willian José,Barcelona,1,1-1,1-2,0,0
+671,25,6,Barcelona,Luis Suárez,Las Palmas,0,0-1,1-2,0,0
+672,25,39,Barcelona,Neymar,Las Palmas,0,1-2,1-2,0,0
+673,25,10,Levante,Morales,Getafe,1,1-0,3-0,0,0
+674,25,43,Levante,Rossi,Getafe,1,2-0,3-0,1,0
+675,25,81,Levante,Verdú,Getafe,1,3-0,3-0,0,0
+676,26,45,Las Palmas,Bigas,Eibar,0,0-1,0-1,0,0
+677,26,53,Atlético,Griezmann,R. Madrid,0,0-1,0-1,0,0
+678,26,70,Celta,Nolito,Getafe,0,0-1,0-1,0,0
+679,26,19,Sporting,Carlos Castro,Espanyol,1,1-0,2-4,0,0
+680,26,62,Sporting,Carlos Castro,Espanyol,1,2-3,2-4,0,0
+681,26,41,Espanyol,Burgui,Sporting,0,1-1,2-4,0,0
+682,26,48,Espanyol,Gerard Moreno,Sporting,0,1-2,2-4,0,0
+683,26,58,Espanyol,Gerard Moreno,Sporting,0,1-3,2-4,0,0
+684,26,80,Espanyol,L. Hernández,Sporting,0,2-4,2-4,0,1
+685,26,14,Betis,Rubén Castro,Rayo,1,1-0,2-2,0,0
+686,26,28,Betis,Rubén Castro,Rayo,1,2-0,2-2,0,0
+687,26,48,Rayo,Manucho,Betis,0,2-1,2-2,0,0
+688,26,51,Rayo,Manucho,Betis,0,2-2,2-2,0,0
+689,26,81,R. Sociedad,Agirretxe,Málaga,1,1-1,1-1,0,0
+690,26,56,Málaga,Cop,R. Sociedad,0,0-1,1-1,0,0
+691,26,12,Villarreal,Leo Baptistao,Levante,1,1-0,3-0,0,0
+692,26,30,Villarreal,Castillejo,Levante,1,2-0,3-0,0,0
+693,26,48,Villarreal,Adrián,Levante,1,3-0,3-0,0,0
+694,26,73,Athletic,Sabin Merino,Valencia,0,0-1,0-3,0,0
+695,26,77,Athletic,Muniain,Valencia,0,0-2,0-3,0,0
+696,26,80,Athletic,Aduriz,Valencia,0,0-3,0-3,0,0
+697,26,24,Granada,El-Arabi,Deportivo,0,0-1,0-1,1,0
+698,26,31,Barcelona,Messi,Sevilla,1,1-1,2-1,0,0
+699,26,48,Barcelona,Piqué,Sevilla,1,2-1,2-1,0,0
+700,26,20,Sevilla,Vitolo,Barcelona,0,0-1,2-1,0,0
+701,27,71,Granada,El-Arabi,Sporting,1,1-0,2-0,1,0
+702,27,92,Granada,Success,Sporting,1,2-0,2-0,0,0
+703,27,9,Betis,Rubén Castro,Espanyol,0,0-1,0-3,0,0
+704,27,19,Betis,Pezzella,Espanyol,0,0-2,0-3,0,0
+705,27,70,Betis,Vargas,Espanyol,0,0-3,0-3,0,0
+706,27,57,Rayo,Manucho,Barcelona,1,1-3,1-5,0,0
+707,27,22,Barcelona,Rakitic,Rayo,0,0-1,1-5,0,0
+708,27,24,Barcelona,Messi,Rayo,0,0-2,1-5,0,0
+709,27,54,Barcelona,Messi,Rayo,0,0-3,1-5,0,0
+710,27,72,Barcelona,Messi,Rayo,0,1-4,1-5,0,0
+711,27,85,Barcelona,Arda Turan,Rayo,0,1-5,1-5,0,0
+712,27,38,Levante,Deyverson,R. Madrid,1,1-2,1-3,0,0
+713,27,34,R. Madrid,Cristiano Ronaldo,Levante,0,0-1,1-3,1,0
+714,27,37,R. Madrid,Mariño,Levante,0,0-2,1-3,1,1
+715,27,90,R. Madrid,Isco,Levante,0,1-3,1-3,0,0
+716,27,13,Athletic,Muniain,Deportivo,1,1-0,4-1,0,0
+717,27,36,Athletic,Aduriz,Deportivo,1,2-0,4-1,0,0
+718,27,53,Athletic,Aduriz,Deportivo,1,3-1,4-1,0,0
+719,27,60,Athletic,Aduriz,Deportivo,1,4-1,4-1,0,0
+720,27,50,Deportivo,Oriol Riera,Athletic,0,2-1,4-1,0,0
+721,27,11,Sevilla,Fernando Llorente,Eibar,1,1-0,1-0,0,0
+722,27,14,Málaga,Cop,Valencia,1,1-0,1-2,0,0
+723,27,41,Valencia,Kameni,Málaga,0,1-1,1-2,0,0
+724,27,50,Valencia,Cheryshev,Málaga,0,1-2,1-2,0,0
+725,27,7,Las Palmas,Willian José,Getafe,1,1-0,4-0,0,0
+726,27,28,Las Palmas,Jonathan Viera,Getafe,1,2-0,4-0,1,0
+727,27,49,Las Palmas,Tana,Getafe,1,3-0,4-0,0,0
+728,27,83,Las Palmas,Tana,Getafe,1,4-0,4-0,0,0
+729,27,9,Atlético,Reyes,R. Sociedad,1,1-0,3-0,0,1
+730,27,46,Atlético,Saúl,R. Sociedad,1,2-0,3-0,0,0
+731,27,61,Atlético,Griezmann,R. Sociedad,1,3-0,3-0,1,0
+732,28,12,Espanyol,Abraham,Rayo,1,1-0,2-1,0,0
+733,28,77,Espanyol,Hernán Pérez,Rayo,1,2-1,2-1,0,0
+734,28,67,Rayo,Bebé,Espanyol,0,1-1,2-1,0,0
+735,28,40,R. Madrid,Pepe,Celta,1,1-0,7-1,0,0
+736,28,49,R. Madrid,Cristiano Ronaldo,Celta,1,2-0,7-1,0,0
+737,28,57,R. Madrid,Cristiano Ronaldo,Celta,1,3-0,7-1,0,0
+738,28,64,R. Madrid,Cristiano Ronaldo,Celta,1,4-1,7-1,0,0
+739,28,75,R. Madrid,Cristiano Ronaldo,Celta,1,5-1,7-1,0,0
+740,28,77,R. Madrid,Jesé,Celta,1,6-1,7-1,0,0
+741,28,80,R. Madrid,Bale,Celta,1,7-1,7-1,0,0
+742,28,61,Celta,Iago Aspas,R. Madrid,0,3-1,7-1,0,0
+743,28,29,Las Palmas,David García,Villarreal,0,0-1,0-1,0,0
+744,28,86,Getafe,Velázquez,Sevilla,1,1-1,1-1,0,0
+745,28,79,Sevilla,Banega,Getafe,0,0-1,1-1,0,0
+746,28,43,Deportivo,Borges,Málaga,1,1-1,3-3,0,0
+747,28,69,Deportivo,Fede Cartabia,Málaga,1,2-2,3-3,0,0
+748,28,80,Deportivo,Lucas Pérez,Málaga,1,3-2,3-3,0,0
+749,28,29,Málaga,Charles,Deportivo,0,0-1,3-3,0,0
+750,28,63,Málaga,Camacho,Deportivo,0,1-2,3-3,0,0
+751,28,89,Málaga,Arribas,Deportivo,0,3-3,3-3,0,1
+752,28,84,Betis,N'Diaye,Granada,1,1-0,2-0,0,0
+753,28,94,Betis,Rubén Castro,Granada,1,2-0,2-0,0,0
+754,28,8,Barcelona,Munir,Eibar,0,0-1,0-4,0,0
+755,28,41,Barcelona,Messi,Eibar,0,0-2,0-4,0,0
+756,28,75,Barcelona,Messi,Eibar,0,0-3,0-4,1,0
+757,28,84,Barcelona,Luis Suárez,Eibar,0,0-4,0-4,0,0
+758,28,27,Athletic,Beñat,Sporting,0,0-1,0-2,0,0
+759,28,58,Athletic,De Marcos,Sporting,0,0-2,0-2,0,0
+760,28,14,R. Sociedad,Diego Reyes,Levante,1,1-0,1-1,0,0
+761,28,24,Levante,Deyverson,R. Sociedad,0,1-1,1-1,0,0
+762,28,28,Valencia,Cheryshev,Atlético,1,1-1,1-3,0,0
+763,28,24,Atlético,Griezmann,Valencia,0,0-1,1-3,0,0
+764,28,72,Atlético,Fernando Torres,Valencia,0,1-2,1-3,0,0
+765,28,85,Atlético,Carrasco,Valencia,0,1-3,1-3,0,0
+766,29,40,Granada,Rochina,Espanyol,1,1-0,1-1,0,0
+767,29,82,Espanyol,Miguel Lopes,Granada,0,1-1,1-1,0,1
+768,29,87,Las Palmas,Willian José,R. Madrid,1,1-1,1-2,0,0
+769,29,24,R. Madrid,Ramos,Las Palmas,0,0-1,1-2,0,0
+770,29,90,R. Madrid,Casemiro,Las Palmas,0,1-2,1-2,0,0
+771,29,34,Athletic,Sabin Merino,Betis,1,1-0,3-1,0,0
+772,29,44,Athletic,Mikel Rico,Betis,1,2-0,3-1,0,0
+773,29,50,Athletic,Sabin Merino,Betis,1,3-0,3-1,0,0
+774,29,85,Betis,Rubén Castro,Athletic,0,3-1,3-1,0,0
+775,29,23,Sevilla,Iborra,Villarreal,1,1-0,4-2,0,0
+776,29,52,Sevilla,Víctor Ruiz,Villarreal,1,2-2,4-2,0,1
+777,29,65,Sevilla,Konoplyanka,Villarreal,1,3-2,4-2,0,0
+778,29,91,Sevilla,Reyes,Villarreal,1,4-2,4-2,0,0
+779,29,29,Villarreal,Bakambu,Sevilla,0,1-1,4-2,0,0
+780,29,37,Villarreal,Bakambu,Sevilla,0,1-2,4-2,0,0
+781,29,65,Levante,Rossi,Valencia,1,1-0,1-0,0,0
+782,29,7,Rayo,Zé Castro,Eibar,1,1-0,1-1,0,0
+783,29,36,Eibar,Escalante,Rayo,0,1-1,1-1,0,0
+784,29,18,Atlético,Saúl,Deportivo,1,1-0,3-0,0,0
+785,29,60,Atlético,Griezmann,Deportivo,1,2-0,3-0,0,0
+786,29,83,Atlético,Correa,Deportivo,1,3-0,3-0,0,0
+787,29,16,Celta,Iago Aspas,R. Sociedad,1,1-0,1-0,0,0
+788,29,8,Barcelona,Juan Rodríguez,Getafe,1,1-0,6-0,0,1
+789,29,19,Barcelona,Munir,Getafe,1,2-0,6-0,0,0
+790,29,32,Barcelona,Neymar,Getafe,1,3-0,6-0,0,0
+791,29,40,Barcelona,Messi,Getafe,1,4-0,6-0,0,0
+792,29,51,Barcelona,Neymar,Getafe,1,5-0,6-0,0,0
+793,29,57,Barcelona,Arda Turan,Getafe,1,6-0,6-0,0,0
+794,29,25,Málaga,Juanpi,Sporting,1,1-0,1-0,0,0
+795,30,6,R. Madrid,Benzema,Sevilla,1,1-0,4-0,0,0
+796,30,64,R. Madrid,Cristiano Ronaldo,Sevilla,1,2-0,4-0,0,0
+797,30,66,R. Madrid,Bale,Sevilla,1,3-0,4-0,0,0
+798,30,86,R. Madrid,Jesé,Sevilla,1,4-0,4-0,0,0
+799,30,80,Celta,Guidetti,Valencia,0,0-1,0-2,0,0
+800,30,85,Celta,Hugo Mallo,Valencia,0,0-2,0-2,0,0
+801,30,57,Villarreal,Bakambu,Barcelona,1,1-2,2-2,0,0
+802,30,63,Villarreal,Mathieu,Barcelona,1,2-2,2-2,0,1
+803,30,20,Barcelona,Rakitic,Villarreal,0,0-1,2-2,0,0
+804,30,41,Barcelona,Neymar,Villarreal,0,0-2,2-2,1,0
+805,30,54,Espanyol,Pape Diop,Athletic,1,1-1,2-1,0,0
+806,30,57,Espanyol,Caicedo,Athletic,1,2-1,2-1,0,0
+807,30,20,Athletic,Eraso,Espanyol,0,0-1,2-1,0,0
+808,30,7,Getafe,Velázquez,Eibar,1,1-0,1-1,0,0
+809,30,88,Eibar,Borja Bastón,Getafe,0,1-1,1-1,0,0
+810,30,79,Sporting,Sanabria,Atlético,1,1-1,2-1,0,0
+811,30,89,Sporting,Carlos Castro,Atlético,1,2-1,2-1,0,0
+812,30,29,Atlético,Griezmann,Sporting,0,0-1,2-1,0,0
+813,30,10,Granada,El-Arabi,Rayo,1,1-0,2-2,0,0
+814,30,53,Granada,El-Arabi,Rayo,1,2-1,2-2,0,0
+815,30,45,Rayo,Pablo Hernández,Granada,0,1-1,2-2,0,0
+816,30,86,Rayo,Zé Castro,Granada,0,2-2,2-2,0,0
+817,30,39,Las Palmas,Willian José,R. Sociedad,0,0-1,0-1,0,0
+818,30,43,Deportivo,Luis Alberto,Levante,1,1-0,2-1,0,0
+819,30,86,Deportivo,Mariño,Levante,1,2-1,2-1,0,1
+820,30,50,Levante,Rossi,Deportivo,0,1-1,2-1,0,0
+821,30,82,Málaga,Camacho,Betis,0,0-1,0-1,0,0
+822,31,51,Sevilla,Gameiro,R. Sociedad,1,1-2,1-2,1,0
+823,31,2,R. Sociedad,Bergara,Sevilla,0,0-1,1-2,0,0
+824,31,34,R. Sociedad,Krychowiak,Sevilla,0,0-2,1-2,0,1
+825,31,22,Eibar,Capa,Villarreal,1,1-0,1-2,0,0
+826,31,35,Villarreal,Adrián,Eibar,0,1-1,1-2,0,0
+827,31,50,Villarreal,Soldado,Eibar,0,1-2,1-2,0,0
+828,31,27,Athletic,Lekue,Granada,1,1-0,1-1,0,0
+829,31,77,Granada,Peñaranda,Athletic,0,1-1,1-1,0,0
+830,31,45,Málaga,Cop,Espanyol,1,1-1,1-1,1,0
+831,31,11,Espanyol,Pape Diop,Málaga,0,0-1,1-1,0,0
+832,31,56,Barcelona,Piqué,R. Madrid,1,1-0,1-2,0,0
+833,31,62,R. Madrid,Benzema,Barcelona,0,1-1,1-2,0,0
+834,31,85,R. Madrid,Cristiano Ronaldo,Barcelona,0,1-2,1-2,0,0
+835,31,30,Celta,Nolito,Deportivo,1,1-1,1-1,0,0
+836,31,21,Deportivo,Borges,Celta,0,0-1,1-1,0,0
+837,31,50,Las Palmas,Jonathan Viera,Valencia,1,1-1,2-1,1,0
+838,31,63,Las Palmas,Mustafi,Valencia,1,2-1,2-1,1,1
+839,31,3,Valencia,Rodrigo,Las Palmas,0,0-1,2-1,0,0
+840,31,36,Atlético,Fernando Torres,Betis,1,1-0,5-1,0,0
+841,31,41,Atlético,Griezmann,Betis,1,2-0,5-1,0,0
+842,31,64,Atlético,Juanfran,Betis,1,3-0,5-1,0,0
+843,31,81,Atlético,Griezmann,Betis,1,4-1,5-1,0,0
+844,31,91,Atlético,Thomas,Betis,1,5-1,5-1,0,0
+845,31,78,Betis,Rubén Castro,Atlético,0,3-1,5-1,0,0
+846,31,14,Rayo,Javi Guerra,Getafe,1,1-0,2-0,0,0
+847,31,71,Rayo,Miku,Getafe,1,2-0,2-0,0,0
+848,32,47,Deportivo,Lucas Pérez,Las Palmas,1,1-0,1-3,0,0
+849,32,58,Las Palmas,Araujo,Deportivo,0,1-1,1-3,0,0
+850,32,79,Las Palmas,David García,Deportivo,0,1-2,1-3,0,0
+851,32,90,Las Palmas,Araujo,Deportivo,0,1-3,1-3,0,0
+852,32,41,Valencia,Parejo,Sevilla,1,1-0,2-1,0,0
+853,32,91,Valencia,Negredo,Sevilla,1,2-1,2-1,0,0
+854,32,86,Sevilla,Gameiro,Valencia,0,1-1,2-1,0,0
+855,32,15,Villarreal,Denis Suárez,Getafe,1,1-0,2-0,0,0
+856,32,85,Villarreal,Bakambu,Getafe,1,2-0,2-0,0,0
+857,32,61,Athletic,Iñaki Williams,Rayo,1,1-0,1-0,0,0
+858,32,64,Celta,Nolito,Sporting,0,0-1,0-1,0,0
+859,32,5,R. Madrid,James Rodríguez,Eibar,1,1-0,4-0,0,0
+860,32,18,R. Madrid,Lucas Vázquez,Eibar,1,2-0,4-0,0,0
+861,32,20,R. Madrid,Cristiano Ronaldo,Eibar,1,3-0,4-0,0,0
+862,32,39,R. Madrid,Jesé,Eibar,1,4-0,4-0,0,0
+863,32,28,Espanyol,Pape Diop,Atlético,1,1-0,1-3,0,0
+864,32,35,Atlético,Fernando Torres,Espanyol,0,1-1,1-3,0,0
+865,32,58,Atlético,Griezmann,Espanyol,0,1-2,1-3,0,0
+866,32,88,Atlético,Koke,Espanyol,0,1-3,1-3,0,0
+867,32,5,R. Sociedad,Oyarzabal,Barcelona,1,1-0,1-0,0,0
+868,32,81,Betis,Rubén Castro,Levante,1,1-0,1-0,0,0
+869,33,53,Athletic,Raúl García,Málaga,0,0-1,0-1,0,0
+870,33,21,Sevilla,Iborra,Deportivo,1,1-0,1-1,0,0
+871,33,81,Deportivo,Oriol Riera,Sevilla,0,1-1,1-1,0,0
+872,33,7,Rayo,Javi Guerra,Villarreal,1,1-0,2-1,0,0
+873,33,81,Rayo,Miku,Villarreal,1,2-1,2-1,0,0
+874,33,20,Villarreal,Adrián,Rayo,0,1-1,2-1,0,0
+875,33,15,Atlético,Koke,Granada,1,1-0,3-0,0,0
+876,33,59,Atlético,Fernando Torres,Granada,1,2-0,3-0,0,0
+877,33,83,Atlético,Correa,Granada,1,3-0,3-0,0,0
+878,33,64,Barcelona,Messi,Valencia,1,1-2,1-2,0,0
+879,33,27,Valencia,Rakitic,Barcelona,0,0-1,1-2,0,1
+880,33,45,Valencia,Santi Mina,Barcelona,0,0-2,1-2,0,0
+881,33,23,Levante,Rossi,Espanyol,1,1-1,2-1,0,0
+882,33,66,Levante,Medjani,Espanyol,1,2-1,2-1,0,0
+883,33,7,Espanyol,Hernán Pérez,Levante,0,0-1,2-1,0,0
+884,33,84,Getafe,Sarabia,R. Madrid,1,1-3,1-5,0,0
+885,33,29,R. Madrid,Benzema,Getafe,0,0-1,1-5,0,0
+886,33,40,R. Madrid,Isco,Getafe,0,0-2,1-5,0,0
+887,33,50,R. Madrid,Bale,Getafe,0,0-3,1-5,0,0
+888,33,88,R. Madrid,James Rodríguez,Getafe,0,1-4,1-5,0,0
+889,33,90,R. Madrid,Cristiano Ronaldo,Getafe,0,1-5,1-5,0,0
+890,33,3,Las Palmas,Bigas,Sporting,1,1-0,1-1,0,0
+891,33,48,Sporting,Jony,Las Palmas,0,1-1,1-1,0,0
+892,33,32,Eibar,Sergi Enrich,R. Sociedad,1,1-1,2-1,0,0
+893,33,58,Eibar,Escalante,R. Sociedad,1,2-1,2-1,0,0
+894,33,7,R. Sociedad,Zurutuza,Eibar,0,0-1,2-1,0,0
+895,33,78,Celta,Pablo Hernández,Betis,1,1-1,1-1,0,0
+896,33,24,Betis,N'Diaye,Celta,0,0-1,1-1,0,0
+897,34,19,R. Sociedad,Carlos Vela,Getafe,1,1-0,1-2,0,0
+898,34,45,Getafe,Sarabia,R. Sociedad,0,1-1,1-2,0,0
+899,34,56,Getafe,Álvaro Vázquez,R. Sociedad,0,1-2,1-2,1,0
+900,34,25,Granada,Success,Levante,1,1-0,5-1,0,0
+901,34,35,Granada,El-Arabi,Levante,1,2-0,5-1,1,0
+902,34,44,Granada,Rochina,Levante,1,3-0,5-1,0,0
+903,34,85,Granada,El-Arabi,Levante,1,4-1,5-1,1,0
+904,34,90,Granada,El-Arabi,Levante,1,5-1,5-1,0,0
+905,34,82,Levante,Rubén García,Granada,0,3-1,5-1,0,0
+906,34,11,Barcelona,Luis Suárez,Deportivo,0,0-1,0-8,0,0
+907,34,24,Barcelona,Luis Suárez,Deportivo,0,0-2,0-8,0,0
+908,34,47,Barcelona,Rakitic,Deportivo,0,0-3,0-8,0,0
+909,34,53,Barcelona,Luis Suárez,Deportivo,0,0-4,0-8,0,0
+910,34,64,Barcelona,Luis Suárez,Deportivo,0,0-5,0-8,0,0
+911,34,73,Barcelona,Messi,Deportivo,0,0-6,0-8,0,0
+912,34,79,Barcelona,Bartra,Deportivo,0,0-7,0-8,0,0
+913,34,81,Barcelona,Neymar,Deportivo,0,0-8,0-8,0,0
+914,34,9,Valencia,Paco Alcácer,Eibar,1,1-0,4-0,0,0
+915,34,27,Valencia,Paco Alcácer,Eibar,1,2-0,4-0,0,0
+916,34,40,Valencia,Paco Alcácer,Eibar,1,3-0,4-0,0,0
+917,34,56,Valencia,João Cancelo,Eibar,1,4-0,4-0,0,0
+918,34,38,Atlético,Fernando Torres,Athletic,0,0-1,0-1,0,0
+919,34,91,Málaga,Ricca,Rayo,1,1-1,1-1,0,0
+920,34,62,Rayo,Baena,Málaga,0,0-1,1-1,0,0
+921,34,22,Sporting,Krychowiak,Sevilla,1,1-1,2-1,0,1
+922,34,91,Sporting,Isma López,Sevilla,1,2-1,2-1,0,0
+923,34,8,Sevilla,Iborra,Sporting,0,0-1,2-1,0,0
+924,34,41,R. Madrid,Benzema,Villarreal,1,1-0,3-0,0,0
+925,34,69,R. Madrid,Lucas Vázquez,Villarreal,1,2-0,3-0,0,0
+926,34,75,R. Madrid,Modric,Villarreal,1,3-0,3-0,0,0
+927,34,39,Espanyol,Marco Asensio,Celta,1,1-1,1-1,0,0
+928,34,28,Celta,Iago Aspas,Espanyol,0,0-1,1-1,0,0
+929,34,83,Betis,Van Wolfswinkel,Las Palmas,1,1-0,1-0,0,0
+930,35,16,Celta,Iago Aspas,Granada,1,1-0,2-1,0,0
+931,35,76,Celta,Iago Aspas,Granada,1,2-1,2-1,0,0
+932,35,69,Granada,El-Arabi,Celta,0,1-1,2-1,0,0
+933,35,67,Sevilla,Gameiro,Betis,1,1-0,2-0,0,0
+934,35,80,Sevilla,Coke,Betis,1,2-0,2-0,0,0
+935,35,59,Getafe,Medrán,Valencia,1,1-1,2-2,0,0
+936,35,69,Getafe,Stefan,Valencia,1,2-1,2-2,0,0
+937,35,48,Valencia,Parejo,Getafe,0,0-1,2-2,0,0
+938,35,83,Valencia,Paco Alcácer,Getafe,0,2-2,2-2,0,0
+939,35,13,Levante,Casadesús,Athletic,1,1-0,2-2,0,0
+940,35,67,Levante,Etxeita,Athletic,1,2-0,2-2,0,1
+941,35,88,Athletic,Susaeta,Levante,0,2-1,2-2,0,0
+942,35,91,Athletic,San José,Levante,0,2-2,2-2,0,0
+943,35,7,Eibar,Adrián,Deportivo,1,1-0,1-1,0,0
+944,35,71,Deportivo,Fede Cartabia,Eibar,0,1-1,1-1,0,0
+945,35,12,Barcelona,Messi,Sporting,1,1-0,6-0,0,0
+946,35,64,Barcelona,Luis Suárez,Sporting,1,2-0,6-0,0,0
+947,35,74,Barcelona,Luis Suárez,Sporting,1,3-0,6-0,1,0
+948,35,77,Barcelona,Luis Suárez,Sporting,1,4-0,6-0,1,0
+949,35,86,Barcelona,Neymar,Sporting,1,5-0,6-0,1,0
+950,35,88,Barcelona,Luis Suárez,Sporting,1,6-0,6-0,0,0
+951,35,62,Atlético,Correa,Málaga,1,1-0,1-0,0,0
+952,35,7,Rayo,Embarba,R. Madrid,1,1-0,2-3,0,0
+953,35,14,Rayo,Miku,R. Madrid,1,2-0,2-3,0,0
+954,35,35,R. Madrid,Bale,Rayo,0,2-1,2-3,0,0
+955,35,51,R. Madrid,Lucas Vázquez,Rayo,0,2-2,2-3,0,0
+956,35,81,R. Madrid,Bale,Rayo,0,2-3,2-3,0,0
+957,35,45,Las Palmas,El Zhar,Espanyol,1,1-0,4-0,0,0
+958,35,49,Las Palmas,Jonathan Viera,Espanyol,1,2-0,4-0,0,0
+959,35,56,Las Palmas,Bigas,Espanyol,1,3-0,4-0,0,0
+960,35,75,Las Palmas,Wakaso,Espanyol,1,4-0,4-0,0,0
+961,36,30,Málaga,Cop,Levante,1,1-0,3-1,0,0
+962,36,89,Málaga,Cop,Levante,1,2-1,3-1,0,0
+963,36,93,Málaga,Chory Castro,Levante,1,3-1,3-1,0,0
+964,36,42,Levante,Morales,Málaga,0,1-1,3-1,0,0
+965,36,80,R. Madrid,Bale,R. Sociedad,0,0-1,0-1,0,0
+966,36,55,Atlético,Griezmann,Rayo,1,1-0,1-0,0,0
+967,36,50,Barcelona,Rakitic,Betis,0,0-1,0-2,0,0
+968,36,81,Barcelona,Luis Suárez,Betis,0,0-2,0-2,0,0
+969,36,43,Sporting,Carmona,Eibar,1,1-0,2-0,0,0
+970,36,81,Sporting,Jony,Eibar,1,2-0,2-0,0,0
+971,36,38,Athletic,Aduriz,Celta,1,1-1,2-1,1,0
+972,36,72,Athletic,Raúl García,Celta,1,2-1,2-1,0,0
+973,36,13,Celta,Orellana,Athletic,0,0-1,2-1,0,0
+974,36,52,Espanyol,Caicedo,Sevilla,1,1-0,1-0,0,0
+975,36,41,Getafe,Pedro León,Deportivo,0,0-1,0-2,0,0
+976,36,85,Getafe,Vigaray,Deportivo,0,0-2,0-2,0,0
+977,36,14,Villarreal,Samuel,Valencia,0,0-1,0-2,0,0
+978,36,33,Villarreal,Adrián,Valencia,0,0-2,0-2,0,0
+979,36,13,Granada,Rochina,Las Palmas,1,1-2,3-2,0,0
+980,36,22,Granada,El-Arabi,Las Palmas,1,2-2,3-2,0,0
+981,36,70,Granada,Ricardo Costa,Las Palmas,1,3-2,3-2,0,0
+982,36,3,Las Palmas,Jonathan Viera,Granada,0,0-1,3-2,0,0
+983,36,12,Las Palmas,Jonathan Viera,Granada,0,0-2,3-2,0,0
+984,37,8,Barcelona,Messi,Espanyol,1,1-0,5-0,0,0
+985,37,52,Barcelona,Luis Suárez,Espanyol,1,2-0,5-0,0,0
+986,37,61,Barcelona,Luis Suárez,Espanyol,1,3-0,5-0,0,0
+987,37,74,Barcelona,Rafinha,Espanyol,1,4-0,5-0,0,0
+988,37,83,Barcelona,Neymar,Espanyol,1,5-0,5-0,0,0
+989,37,30,Levante,Casadesús,Atlético,1,1-1,2-1,0,0
+990,37,90,Levante,Rossi,Atlético,1,2-1,2-1,0,0
+991,37,2,Atlético,Fernando Torres,Levante,0,0-1,2-1,0,0
+992,37,26,R. Madrid,Cristiano Ronaldo,Valencia,1,1-0,3-2,0,0
+993,37,42,R. Madrid,Benzema,Valencia,1,2-0,3-2,0,0
+994,37,59,R. Madrid,Cristiano Ronaldo,Valencia,1,3-1,3-2,0,0
+995,37,55,Valencia,Rodrigo,R. Madrid,0,2-1,3-2,0,0
+996,37,81,Valencia,André Gomes,R. Madrid,0,3-2,3-2,0,0
+997,37,32,Deportivo, Fajr,Villarreal,0,0-1,0-2,0,0
+998,37,56,Deportivo,Lucas Pérez,Villarreal,0,0-2,0-2,0,0
+999,37,74,Sevilla,Diego González,Granada,1,1-1,1-4,0,0
+1000,37,46,Granada,Cuenca,Sevilla,0,0-1,1-4,0,0
+1001,37,79,Granada,Babin,Sevilla,0,1-2,1-4,0,0
+1002,37,86,Granada,El-Arabi,Sevilla,0,1-3,1-4,1,0
+1003,37,88,Granada,Cuenca,Sevilla,0,1-4,1-4,0,0
+1004,37,80,Getafe,Scepovic,Sporting,1,1-1,1-1,0,0
+1005,37,50,Sporting,Sergio Álvarez,Getafe,0,0-1,1-1,0,0
+1006,37,12,R. Sociedad,Oyarzabal,Rayo,1,1-0,2-1,0,0
+1007,37,50,R. Sociedad,Bautista,Rayo,1,2-0,2-1,0,0
+1008,37,69,Rayo,Javi Guerra,R. Sociedad,0,2-1,2-1,0,0
+1009,37,73,Eibar,Sergi Enrich,Betis,1,1-1,1-1,0,0
+1010,37,37,Betis,Rubén Castro,Eibar,0,0-1,1-1,0,0
+1011,37,31,Celta,Nolito,Málaga,1,1-0,1-0,0,0
+1012,38,56,Betis,Pezzella,Getafe,1,1-0,2-1,0,0
+1013,38,73,Betis,Rubén Castro,Getafe,1,2-0,2-1,1,0
+1014,38,84,Getafe,Medrán,Betis,0,2-1,2-1,0,0
+1015,38,7,Sporting,Jony,Villarreal,1,1-0,2-0,0,0
+1016,38,79,Sporting,Sergio Álvarez,Villarreal,1,2-0,2-0,0,0
+1017,38,12,Rayo,Pablo Hernández,Levante,1,1-0,3-1,0,0
+1018,38,23,Rayo,Trashorras,Levante,1,2-0,3-1,0,0
+1019,38,73,Rayo,Miku,Levante,1,3-1,3-1,0,0
+1020,38,60,Levante,Verza,Rayo,0,2-1,3-1,1,0
+1021,38,12,Espanyol,Gerard Moreno,Eibar,1,1-0,4-2,0,0
+1022,38,31,Espanyol,Marco Asensio,Eibar,1,2-0,4-2,0,0
+1023,38,67,Espanyol,Marco Asensio,Eibar,1,3-1,4-2,0,0
+1024,38,76,Espanyol,Gerard Moreno,Eibar,1,4-1,4-2,0,0
+1025,38,57,Eibar,Borja Bastón,Espanyol,0,2-1,4-2,0,0
+1026,38,90,Eibar,Sergi Enrich,Espanyol,0,4-2,4-2,0,0
+1027,38,94,R. Sociedad,Oyarzabal,Valencia,0,0-1,0-1,0,0
+1028,38,22,Barcelona,Luis Suárez,Granada,0,0-1,0-3,0,0
+1029,38,38,Barcelona,Luis Suárez,Granada,0,0-2,0-3,0,0
+1030,38,86,Barcelona,Luis Suárez,Granada,0,0-3,0-3,0,0
+1031,38,7,R. Madrid,Cristiano Ronaldo,Deportivo,0,0-1,0-2,0,0
+1032,38,25,R. Madrid,Cristiano Ronaldo,Deportivo,0,0-2,0-2,0,0
+1033,38,51,Atlético,Fernando Torres,Celta,1,1-0,2-0,0,0
+1034,38,54,Atlético,Griezmann,Celta,1,2-0,2-0,0,0
+1035,38,10,Athletic,Aduriz,Sevilla,1,1-0,3-1,0,0
+1036,38,31,Athletic,Aduriz,Sevilla,1,2-0,3-1,0,0
+1037,38,70,Athletic,Raúl García,Sevilla,1,3-1,3-1,0,0
+1038,38,55,Sevilla,Juan Muñoz,Athletic,0,2-1,3-1,0,0
+1039,38,28,Málaga,Cop,Las Palmas,1,1-0,4-1,0,0
+1040,38,48,Málaga,Charles,Las Palmas,1,2-1,4-1,0,0
+1041,38,83,Málaga,Atsu,Las Palmas,1,3-1,4-1,0,0
+1042,38,87,Málaga,Charles,Las Palmas,1,4-1,4-1,0,0
+1043,38,33,Las Palmas,Willian José,Málaga,0,1-1,4-1,0,0
